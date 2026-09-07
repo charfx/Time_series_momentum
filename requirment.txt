@@ -2,3 +2,6 @@ yfinance
 ipykernel
 seaborn
 scipy
+scikit-learn
+torch
+joblib
