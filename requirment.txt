@@ -1,0 +1,4 @@
+yfinance
+ipykernel
+seaborn
+scipy

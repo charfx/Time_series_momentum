@@ -1,0 +1,13 @@
+[project]
+name = "time-series-momentum"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "pyarrow>=25.0.1",
+    "scipy>=1.18.1",
+    "seaborn>=0.13.2",
+    "yfinance>=1.7.0",
+]
